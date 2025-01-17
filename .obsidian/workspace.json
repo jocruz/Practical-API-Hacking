@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "8 - Capstone/2 - Capstone API Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2 - Capstone API Documentation"
             }
           }
         ]
@@ -33,10 +33,14 @@
             "id": "fc1edb438478894a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "8 - Capstone/Raw - Capstone Walkthrough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raw - Capstone Walkthrough"
             }
           }
         ]
@@ -183,9 +187,11 @@
   },
   "active": "defe41f5e9f11a28",
   "lastOpenFiles": [
+    "8 - Capstone/Raw - Capstone Walkthrough.md",
+    "8 - Capstone/2 - Capstone API Documentation.md",
+    "8 - Capstone/1 - Capstone Walkthrough.md",
     "7 - SSRF/2 - Lab - Basic SSRF against the local server.md",
-    "Untitled/Untitled.md",
-    "Untitled",
+    "8 - Capstone",
     "7 - SSRF/Raw -Basic SSRF against the local server.md",
     "7 - SSRF/1 -  Introduction to SSRF.md",
     "6 - Excessive Data Exposure/Introduction to Excessive Data Exposure.md",
@@ -213,9 +219,7 @@
     "3 - Attacking Authentication/Raw Notes/Raw - JSON Web Token Part 3.md",
     "3 - Attacking Authentication/Raw Notes/Raw - JSON Web Tokens - Part 2 Theory.md",
     "3 - Attacking Authentication/3 - JSON Web Tokens - Part 1 Theory.md",
-    "3 - Attacking Authentication/Raw Notes/Raw - Attacking tokens.md",
     "3 - Attacking Authentication/Raw Notes",
-    "3 - Attacking Authentication/Raw Notes/Raw - JWT Theory Part 1.md",
     "3 - Attacking Authentication",
     "2 - Attacking Authorization/Raw Notes",
     "1 - Enumerating APIs"
