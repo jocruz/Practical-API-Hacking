@@ -6,6 +6,7 @@
       {
         "id": "efca3717e4c02d3f",
         "type": "tabs",
+        "dimension": 48.82671480144404,
         "children": [
           {
             "id": "defe41f5e9f11a28",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - SQL Injection/2 - Login Bypass.md",
+                "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Login Bypass"
+              "title": "Untitled"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "c8322a8453171e6b",
         "type": "tabs",
+        "dimension": 51.17328519855595,
         "children": [
           {
             "id": "fc1edb438478894a",
@@ -181,10 +183,28 @@
   },
   "active": "defe41f5e9f11a28",
   "lastOpenFiles": [
+    "7 - SSRF/2 - Lab - Basic SSRF against the local server.md",
+    "Untitled/Untitled.md",
+    "Untitled",
+    "7 - SSRF/Raw -Basic SSRF against the local server.md",
+    "7 - SSRF/1 -  Introduction to SSRF.md",
+    "6 - Excessive Data Exposure/Introduction to Excessive Data Exposure.md",
+    "7 - SSRF",
+    "5 - Mass Assignment/4 - Mass Assignment Challenge.md",
+    "6 - Excessive Data Exposure",
+    "5 - Mass Assignment/Raw - Mass Assignment.md",
+    "4 - SQL Injection/5 - Capstone Solution.md",
+    "5 - Mass Assignment",
+    "4 - SQL Injection/Raw - Mid Stone Challenge Solution.md",
+    "4 - SQL Injection/4 - NoSQL Challenge.md",
+    "4 - SQL Injection/3 - No SQL Injection Lab.md",
     "4 - SQL Injection/1- SQL Injection Lab.md",
     "4 - SQL Injection/2 - Login Bypass.md",
-    "4 - SQL Injection/Raw - SQL Injection Lab - Login Bypass.md",
-    "4 - SQL Injection/Raw - SQL Injection Lab.md",
+    "4 - SQL Injection/Raw - No SQL Challenge.md",
+    "4 - SQL Injection/Raw Notes/Raw - NoSql Injection Lab.md",
+    "4 - SQL Injection/Raw Notes/Raw - SQL Injection Lab.md",
+    "4 - SQL Injection/Raw Notes",
+    "4 - SQL Injection/Raw Notes/Raw - SQL Injection Lab - Login Bypass.md",
     "3 - Attacking Authentication/Raw Notes/Raw - Challenge Walk Through.md",
     "4 - SQL Injection",
     "3 - Attacking Authentication/6 - Challenge Walk Through.md",
@@ -196,19 +216,8 @@
     "3 - Attacking Authentication/Raw Notes/Raw - Attacking tokens.md",
     "3 - Attacking Authentication/Raw Notes",
     "3 - Attacking Authentication/Raw Notes/Raw - JWT Theory Part 1.md",
-    "3 - Attacking Authentication/2 - Attacking Tokens.md",
-    "3 - Attacking Authentication/1 - Intro to Authentication.md",
-    "2 - Attacking Authorization/3 - BOLA and BFLA Challenge.md",
     "3 - Attacking Authentication",
-    "2 - Attacking Authorization/Raw Notes/Raw - Bola &  BFLA Lab.md",
     "2 - Attacking Authorization/Raw Notes",
-    "2 - Attacking Authorization/Raw Notes/Raw - BOLA Lab.md",
-    "2 - Attacking Authorization/2 - Bola Lab.md",
-    "2 - Attacking Authorization/1 - Introduction to Authorization.md",
-    "1 - Enumerating APIs/1 - Fuzzing APIs.md",
-    "1 - Enumerating APIs/2 - Discovery via Source Code.md",
-    "Misc.md",
-    "1 - Enumerating APIs",
-    "2 - Attacking Authorization"
+    "1 - Enumerating APIs"
   ]
 }
