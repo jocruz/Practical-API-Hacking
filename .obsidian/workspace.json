@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Review/Final Capstone.md",
+                "file": "0 - Review/BOLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Capstone"
+              "title": "BOLA"
+            }
+          },
+          {
+            "id": "b8a8f3ccc08cd84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/1 - enumerating_apis_review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - enumerating_apis_review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,16 +178,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc1edb438478894a",
+  "active": "c89c6a9760dd627a",
   "lastOpenFiles": [
-    "0 - Review/Excessive Data Exposure.md",
-    "0 - Review/Final Capstone.md",
-    "0 - Review/Untitled 1.md",
     "8 - Capstone/1 - Capstone Walkthrough.md",
     "8 - Capstone/2 - Capstone API Documentation.md",
+    "7 - SSRF/1 -  Introduction to SSRF.md",
+    "7 - SSRF/2 - Lab - Basic SSRF against the local server.md",
+    "Templates/7 - ssrf_review.md",
+    "Templates/API Hacking Template.md",
+    "Templates/Templates.md",
+    "Templates/6 - excessive_data_exposure_review.md",
+    "Templates/5 - mass_assignment_review.md",
+    "Templates/4 - sql_inecjtion_review.md",
+    "Templates/3 - attacking_authentication_review.md",
+    "Templates/2 - attacking_authorization_review.md",
+    "Templates/1 - enumerating_apis_review.md",
+    "Templates",
+    "0 - Review/BOLA.md",
+    "0 - Review/Final Capstone.md",
+    "0 - Review/Excessive Data Exposure.md",
+    "0 - Review/Untitled 1.md",
     "8 - Capstone/Raw - Capstone Walkthrough.md",
     "0 - Review/SSRF.md",
-    "7 - SSRF/2 - Lab - Basic SSRF against the local server.md",
     "6 - Excessive Data Exposure/Introduction to Excessive Data Exposure.md",
     "0 - Review/Mass Assignment.md",
     "5 - Mass Assignment/4 - Mass Assignment Challenge.md",
@@ -180,17 +207,6 @@
     "4 - SQL Injection/5 - Capstone Solution.md",
     "0 - Review/Capstone Solution.md",
     "0 - Review/No SQL.md",
-    "4 - SQL Injection/4 - NoSQL Challenge.md",
-    "4 - SQL Injection/3 - No SQL Injection Lab.md",
-    "0 - Review/SQL Login Bypass.md",
-    "4 - SQL Injection/2 - Login Bypass.md",
-    "0 - Review/Union Select.md",
-    "4 - SQL Injection/1- SQL Injection Lab.md",
-    "3 - Attacking Authentication/6 - Challenge Walk Through.md",
-    "0 - Review/JWT.md",
-    "3 - Attacking Authentication/2 - Attacking Tokens.md",
-    "3 - Attacking Authentication/3 - JSON Web Tokens - Part 1 Theory.md",
-    "0 - Review/BOLA and BFLA.md",
     "0 - Review",
     "8 - Capstone",
     "7 - SSRF",
@@ -199,7 +215,6 @@
     "4 - SQL Injection/Raw Notes",
     "4 - SQL Injection",
     "3 - Attacking Authentication/Raw Notes",
-    "3 - Attacking Authentication",
-    "2 - Attacking Authorization/Raw Notes"
+    "3 - Attacking Authentication"
   ]
 }
