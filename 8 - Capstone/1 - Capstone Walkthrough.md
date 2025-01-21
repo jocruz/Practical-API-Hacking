@@ -10,13 +10,13 @@ This capstone project demonstrates multiple chained vulnerabilities, including *
 
 ## 📚 Definition Bank
 
-|**Term**|**Definition**|**Key Notes**|
-|---|---|---|
-|**SSRF (Server-Side Request Forgery)**|A vulnerability that allows an attacker to make the server fetch resources from unintended destinations.|Exploited by modifying the `original` key in a recipe to access internal endpoints.|
-|**Mass Assignment**|Unauthorized modification of object properties by passing unexpected fields during data input.|Exploited by adding `userlevel:admin` during registration to escalate privileges.|
-|**Privilege Escalation**|Gaining higher-level access than permitted by exploiting vulnerabilities or misconfigurations.|Achieved by registering as an admin and accessing admin-only resources.|
-|**ffuf**|A web fuzzing tool used to discover hidden endpoints or parameters in web applications.|Used here to find internal `uptime` and `users` actions.|
-|**dirb/big.txt**|A commonly used wordlist for directory and endpoint enumeration in web applications.|Helps in discovering hidden endpoints during fuzzing.|
+| **Term**                               | **Definition**                                                                                           | **Key Notes**                                                                       |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **SSRF (Server-Side Request Forgery)** | A vulnerability that allows an attacker to make the server fetch resources from unintended destinations. | Exploited by modifying the `original` key in a recipe to access internal endpoints. |
+| **Mass Assignment**                    | Unauthorized modification of object properties by passing unexpected fields during data input.           | Exploited by adding `userlevel:admin` during registration to escalate privileges.   |
+| **Privilege Escalation**               | Gaining higher-level access than permitted by exploiting vulnerabilities or misconfigurations.           | Achieved by registering as an admin and accessing admin-only resources.             |
+| **ffuf**                               | A web fuzzing tool used to discover hidden endpoints or parameters in web applications.                  | Used here to find internal `uptime` and `users` actions.                            |
+| **dirb/big.txt**                       | A commonly used wordlist for directory and endpoint enumeration in web applications.                     | Helps in discovering hidden endpoints during fuzzing.                               |
 
 ---
 
